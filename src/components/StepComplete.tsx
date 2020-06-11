@@ -102,13 +102,6 @@ class StepComplete extends React.Component<StepCompleteProps, StepCompleteState>
               <Col>
                 <Form>
                   <Form.Group>
-                    <Form.Label>Optional notes</Form.Label>
-                    <Form.Control as="textarea" rows={2}
-                      onChange={(event) => this.handleNotesChange(event)}
-                      value={this.state.notes} />
-                    <Form.Text>These notes are included on the backup and can be used to describe this key</Form.Text>
-                  </Form.Group>
-                  <Form.Group>
                     <Form.Label>Filename<br /><small>Required when saving to file</small></Form.Label>
                     <Form.Row>
                       <Col md={8}>
@@ -124,12 +117,18 @@ class StepComplete extends React.Component<StepCompleteProps, StepCompleteState>
                           value={this.state.fileType}
                           onChange={(event) => this.handleFileTypeChange(event)}>
                           <option value="pdf">PDF</option>
-                          <option value="png">IMAGE/PNG</option>
                         </Form.Control>
                       </Col>
                     </Form.Row>
                     <Form.Text>Choose whichever name you want, try and make it not stand out yet easily recognizable by your self.</Form.Text>
                   </Form.Group>
+                  <Form.Group>
+                    <Form.Label>Optional notes</Form.Label>
+                    <Form.Control as="textarea" rows={2}
+                      onChange={(event) => this.handleNotesChange(event)}
+                      value={this.state.notes} />
+                    <Form.Text>These notes are included on the backup and can be used to describe this key</Form.Text>
+                  </Form.Group>                  
                   <Row>
                     <Col>
                       <Row>

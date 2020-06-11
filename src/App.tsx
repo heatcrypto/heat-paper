@@ -51,7 +51,7 @@ class App extends React.Component<{}, AppState> {
         contents = <StepComplete keyData={this.state.keyData||''} keyIsValidBip39={this.state.keyIsValidBip39||false} previousStage={this.state.previousStage||AppStageEnum.EXISTING_KEY}  setAppState={this.setAppState}></StepComplete>;        
         break;
     }
-    return <Container>{ contents }</Container>
+    return <Container className="mb-2"> { contents }</Container>
   }
 }
 
