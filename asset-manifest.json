@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/heat-paper/static/js/main.7961fc96.chunk.js",
-    "main.js.map": "/heat-paper/static/js/main.7961fc96.chunk.js.map",
+    "main.js": "/heat-paper/static/js/main.ea84171f.chunk.js",
+    "main.js.map": "/heat-paper/static/js/main.ea84171f.chunk.js.map",
     "runtime-main.js": "/heat-paper/static/js/runtime-main.32776c20.js",
     "runtime-main.js.map": "/heat-paper/static/js/runtime-main.32776c20.js.map",
     "static/css/2.af3c1da9.chunk.css": "/heat-paper/static/css/2.af3c1da9.chunk.css",
     "static/js/2.69bb1d91.chunk.js": "/heat-paper/static/js/2.69bb1d91.chunk.js",
     "static/js/2.69bb1d91.chunk.js.map": "/heat-paper/static/js/2.69bb1d91.chunk.js.map",
     "index.html": "/heat-paper/index.html",
-    "precache-manifest.477bc49aebfc58e08d860627542ca743.js": "/heat-paper/precache-manifest.477bc49aebfc58e08d860627542ca743.js",
+    "precache-manifest.c0aed99a1da8e93ba000200f6959b475.js": "/heat-paper/precache-manifest.c0aed99a1da8e93ba000200f6959b475.js",
     "service-worker.js": "/heat-paper/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/heat-paper/static/css/2.af3c1da9.chunk.css.map",
     "static/js/2.69bb1d91.chunk.js.LICENSE.txt": "/heat-paper/static/js/2.69bb1d91.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.32776c20.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.69bb1d91.chunk.js",
-    "static/js/main.7961fc96.chunk.js"
+    "static/js/main.ea84171f.chunk.js"
   ]
 }

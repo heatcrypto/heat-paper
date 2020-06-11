@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05b9803d040b6300015b0e3a2ac4ef93",
+    "revision": "f342fb48befcf52f2180970fe2a393f0",
     "url": "/heat-paper/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heat-paper/static/js/2.69bb1d91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "928c140199fc83f105e5",
-    "url": "/heat-paper/static/js/main.7961fc96.chunk.js"
+    "revision": "313d62e9d3885d6a8ed2",
+    "url": "/heat-paper/static/js/main.ea84171f.chunk.js"
   },
   {
     "revision": "e0814ef8541443df80e4",
