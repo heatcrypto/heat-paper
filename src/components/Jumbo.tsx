@@ -15,7 +15,7 @@ class Jumbo extends React.Component<{}, {}> {
     return (
       <Jumbotron>
         <h1>Simple, Secure, Off-line</h1>
-        <p>Backup your keys on paper or as PDF or image file.<br />
+        <p>Backup your keys on paper or as PDF file.<br />
           HEAT wallet is fully functional with no keys stored on your phone.<br />
           Only when your keys are needed quickly scan your backup and get on with being secure.
         </p>
